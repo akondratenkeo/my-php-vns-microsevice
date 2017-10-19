@@ -1,0 +1,17 @@
+# phpstorm project files
+/.idea
+
+# netbeans project files
+/nbproject
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# composer vendor dir
+/vendor
+
+/application/_installation
+/application/config/config.development.php

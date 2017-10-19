@@ -1,0 +1,7 @@
+
+CREATE TABLE `dpd_settings` (
+ `id` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+ `name` VARCHAR(255) NOT NULL DEFAULT '',
+ `value` TEXT NOT NULL,
+ PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
